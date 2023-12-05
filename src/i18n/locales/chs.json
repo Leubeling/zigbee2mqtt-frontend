@@ -66,6 +66,7 @@
         "Mode of this device": "该设备的模式",
         "The current running state": "当前的运行状态",
         "Offset to be used in the local_temperature": "在local_temperature中使用的偏移量",
+        "Offset to add/subtract to the local temperature": "在local_temperature中使用的偏移量",
         "Position of the valve (= demanded heat) where 0% is fully closed and 100% is fully open": "阀门的位置（=需求的热量），其中0%为完全关闭，100%为完全打开",
         "On/off state of the switch": "开关的开/关状态",
         "Position of this cover": "窗帘的位置",

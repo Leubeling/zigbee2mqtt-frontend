@@ -64,6 +64,7 @@
         "Mode of this device": "Režim tohoto zařízení",
         "The current running state": "Aktuální provozní stav",
         "Offset to be used in the local_temperature": "Posunutí použité v local_temperature",
+        "Offset to add/subtract to the local temperature": "Posunutí použité v local_temperature",
         "Position of the valve (= demanded heat) where 0% is fully closed and 100% is fully open": "Poloha ventilu (= požadované teplo), kdy 0 % je zcela zavřeno a 100 % je zcela otevřeno",
         "On/off state of the switch": "Stav zapnutí/vypnutí spínače",
         "Position of this cover": "Pozice tohoto krytu",

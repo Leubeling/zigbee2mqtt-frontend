@@ -64,6 +64,7 @@
         "Mode of this device": "此設備的模式",
         "The current running state": "目前運作狀態",
         "Offset to be used in the local_temperature": "\n在 local_temperature 中使用的偏移量",
+        "Offset to add/subtract to the local temperature": "\n在 local_temperature 中使用的偏移量",
         "On/off state of the switch": "開關的狀態",
         "Position of this cover": "此窗簾的位置",
         "Motor speed": "電機轉速",

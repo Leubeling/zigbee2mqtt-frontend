@@ -60,6 +60,7 @@
         "Current temperature measured on the device": "Nuværende farvetemperatur for enheden",
         "Mode of this device": "Denne enheds tilstand",
         "Offset to be used in the local_temperature": "Offset der skal bruges i local_temperature",
+        "Offset to add/subtract to the local temperature": "Offset der skal bruges i local_temperature",
         "Position of the valve (= demanded heat) where 0% is fully closed and 100% is fully open": "Tilstand af ventilen (= efterspurgt varme) hvor 0 % er helt lukket og 100 % er helt åben",
         "On/off state of the switch": "Tænd/sluk tilstand af kontakten",
         "Position of this cover": "Dækkets position",

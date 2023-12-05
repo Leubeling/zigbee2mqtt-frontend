@@ -64,6 +64,7 @@
         "Mode of this device": "Mode del dispositiu",
         "The current running state": "L'estat actual d'execució",
         "Offset to be used in the local_temperature": "Compensació de temperatura_local",
+        "Offset to add/subtract to the local temperature": "Compensació de temperatura_local",
         "On/off state of the switch": "Estat encès/apagat de l'interruptor",
         "Position of this cover": "Posició d'aquesta persiana",
         "Motor speed": "Velocitat del motor",

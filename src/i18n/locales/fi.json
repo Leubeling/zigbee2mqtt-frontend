@@ -64,6 +64,7 @@
         "Current temperature measured on the device": "Nykyinen laitteelta mitattu lämpötila",
         "Mode of this device": "Tämän laitteen tila",
         "Offset to be used in the local_temperature": "Poikkeama, jota käytetään local_temperature:n yhteydessä",
+        "Offset to add/subtract to the local temperature": "Poikkeama, jota käytetään local_temperature:n yhteydessä",
         "On/off state of the switch": "Kytkimen tila päällä/pois",
         "Position of this cover": "Tämän peitteen asento",
         "Motor speed": "Moottorin nopeus",
